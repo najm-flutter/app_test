@@ -1,5 +1,4 @@
 flask
 scikit-learn
 numpy
-pickle
 flask_cors 
